@@ -8,7 +8,7 @@ October 23-24, 2018, [Ilini Center](https://www.google.com/maps/search/ilini+cen
 - 📝 [Agenda](http://urssi.us/workshops/chicago/)  
 - 💬 [Proposed breakout topics](https://github.com/si2-urssi/chicago_workshop/issues)
 - 🗳 Live poll to choose topics (Link will be live tomorrow)
-- 📝 [Notes for breakout sessions](http://bit.ly/chicago_breakouts) → `http://bit.ly/chicago_breakouts`
+- 📝 [Notes for breakout sessions](http://bit.ly/chicago_breakouts) → `bit.ly/chicago_breakouts`
 - 🗄️ [Submit your lightning talk slides](http://bit.ly/urssi_talks)
 
 
