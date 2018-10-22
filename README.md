@@ -1,5 +1,18 @@
-# chicago_workshop
-We are excited to welcome you to the second workshop in the URSSI conceptualization October 23 and 24 in Chicago, IL. Similar to our first workshop in Berkeley, the event will be mostly participant driven. In addition to a few keynotes and lightning talks, the agenda includes open discussions around topics suggested by participants prior to and during the meeting.
+# URSSI Chicago Workshop
+
+October 23-24, 2018, [Ilini Center](https://www.google.com/maps/search/ilini+center+chicago/@37.8448988,-122.2947358,13z), Chicago   
+*200 S Wacker Dr, Chicago, IL 60606*
+
+**Important links**
+
+- 📝 [Agenda](http://urssi.us/workshops/chicago/)  
+- 💬 [Proposed breakout topics](https://github.com/si2-urssi/chicago_workshop/issues)
+- 🗳 Live poll to choose topics
+- 📝 [Notes for breakout sessions](http://bit.ly/chicago_breakouts) → `http://bit.ly/chicago_breakouts`
+
+
+---
+
 
 In this workshop, we want to:
 
