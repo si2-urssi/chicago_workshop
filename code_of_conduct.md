@@ -12,7 +12,7 @@ URSSI workshop participants agree to:
 
 # Need Help?
 
-Please speak with Karthik Ram, Abby Cabunoc Mayes, or Kyle Niemeyer if you have any concerns. You may also reach out to event staff if you are unable to reach Karthik, Abby, or Kyle.
+Please speak with Karthik Ram or Kyle Niemeyer if you have any concerns. You may also reach out to event staff if you are unable to reach Karthik, Abby, or Kyle.
 
 **Karthik Ram** karthik.ram@berkeley.edu, +1 530-902-7267  
 **Kyle Niemeyer** kyle.niemeyer@gmail.com, 3015145936
