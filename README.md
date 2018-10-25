@@ -11,6 +11,7 @@ October 23-24, 2018, [Ilini Center](https://www.google.com/maps/search/ilini+cen
   -	[Poll results](http://dp1.directpoll.com/r?XDbzPBd3ixYqg875qUmv1y1nClR6cnLre6kxM2M3)
 - 📝 [Notes for breakout sessions](http://bit.ly/chicago_breakouts) → `bit.ly/chicago_breakouts`
 - 🗄️ [Submit your lightning talk slides](http://bit.ly/urssi_talks)
+- [Get reimbursed](https://github.com/si2-urssi/chicago_workshop/blob/master/logistics/how-to-reimburse.md)
 
 
 ---
